@@ -1,7 +1,7 @@
 
-# Gepco HR Dashboard - Power BI Project
+# HR Dashboard - Power BI Project
 
-This Power BI project presents a comprehensive **HR Dashboard** developed for **GEPCO (Gujranwala Electric Power Company)**. It provides a detailed visualization and analysis of the organization's HR data including employee demographics, department-wise distributions, service statistics, and more.
+This Power BI project presents a comprehensive **HR Dashboard** developed for **HR DashBoard**. It provides a detailed visualization and analysis of the organization's HR data including employee demographics, department-wise distributions, service statistics, and more.
 
 ---
 
@@ -48,7 +48,7 @@ This Power BI project presents a comprehensive **HR Dashboard** developed for **
 
 ## 📁 Project Structure
 ```
-📂 Gepco_HR_DASHBOARD.pbix – Power BI file containing the dashboard visuals and logic.
+📂 HR_DASHBOARD.pbix – Power BI file containing the dashboard visuals and logic.
 ```
 
 ---
