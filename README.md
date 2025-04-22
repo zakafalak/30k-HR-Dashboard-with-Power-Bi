@@ -1,5 +1,5 @@
 
-# HR Dashboard - Power BI Project
+# 30k  HR Dashboard - Power BI Project
 
 This Power BI project presents a comprehensive **HR Dashboard** developed for **HR  Department**. It provides a detailed visualization and analysis of the organization's HR data including employee demographics, department-wise distributions, service statistics, and more.
 
@@ -11,9 +11,11 @@ This Power BI project presents a comprehensive **HR Dashboard** developed for **
 - Presents the total number of employees.
 - Displays summary cards: departments, designations, districts.
 - Gender-wise and employment-type distributions.
-  ** There are Three sections Of the Dashboard**
-  **Head Coount section**
-  - In this Section I have Calculate the Employees data With Using Dax and calculate the head coount bye departmnet designation and year od services and Grade level b
+
+   **There are Three sections Of the Dashboard**
+
+   **Head Coount section**
+  - In this Section I have Calculate the Employees data With Using Dax and calculate the head coount bye departmnet designation and year of services and Grade level
   - By Age Group Head Count , & by Genration wise
 
 **Capability Section**
