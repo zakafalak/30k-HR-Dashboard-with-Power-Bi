@@ -1,7 +1,7 @@
 
 # HR Dashboard - Power BI Project
 
-This Power BI project presents a comprehensive **HR Dashboard** developed for **HR DashBoard**. It provides a detailed visualization and analysis of the organization's HR data including employee demographics, department-wise distributions, service statistics, and more.
+This Power BI project presents a comprehensive **HR Dashboard** developed for **HR  Department**. It provides a detailed visualization and analysis of the organization's HR data including employee demographics, department-wise distributions, service statistics, and more.
 
 ---
 
@@ -11,10 +11,28 @@ This Power BI project presents a comprehensive **HR Dashboard** developed for **
 - Presents the total number of employees.
 - Displays summary cards: departments, designations, districts.
 - Gender-wise and employment-type distributions.
+  ** There are Three sections Of the Dashboard**
+  **Head Coount section**
+  - In this Section I have Calculate the Employees data With Using Dax and calculate the head coount bye departmnet designation and year od services and Grade level b
+  - By Age Group Head Count , & by Genration wise
 
+**Capability Section**
+-Job tilts of Empoloyes 
+- Designation wise capabolity
+- Education of employees
+- Department wise Qualification of Employees Analysis and more
+**Compensation/Salary Section**
+  -Totol of Salary
+  -Cost to the Company of Total employees
+  -Grade wise Min,Max,& Total Salary of Employees
+  -Trend Check by department wise salary
+  -Job nature Wise Salary
+  -Distribution Filters
+  -Salary Range of the employees
+  
 ### 📍 Location-Based Analysis
-- Visual breakdown by **districts**.
-- Interactive maps showing geographic distribution of employees.
+- Visual breakdown by **districts, City Cirlce, division and sub divison wise**.
+- 
 
 ### 🧑‍💼 Department & Designation Insights
 - Employee count by **department** and **designation**.
@@ -35,6 +53,8 @@ This Power BI project presents a comprehensive **HR Dashboard** developed for **
 ### 📐 DAX Measures Used
 - Custom measures for total count, percentages, and aging.
 - Logical DAX applied to service year buckets and age filters.
+- Made filter Buttons with Dax 
+- Using Advance level Dax Measures For Calculations
 
 ---
 
