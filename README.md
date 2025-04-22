@@ -26,7 +26,6 @@ This Power BI project presents a comprehensive **HR Dashboard** developed for **
 - Department wise Qualification of Employees Analysis and more
   
 <h3>Compensation/Salary Section</3>
-
   -Totol of Salary
   -Cost to the Company of Total employees
   -Grade wise Min,Max,& Total Salary of Employees
