@@ -34,6 +34,8 @@ This Power BI project presents a comprehensive **HR Dashboard** developed for **
   -Job nature Wise Salary
   -Distribution Filters
   -Salary Range of the employees
+
+
   
 ### 📍 Location-Based Analysis
 - Visual breakdown by **districts, City Cirlce, division and sub divison wise**.
