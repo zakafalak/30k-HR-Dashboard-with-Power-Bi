@@ -20,10 +20,10 @@ This Power BI project presents a comprehensive **HR Dashboard** developed for **
   - By Age Group Head Count , & by Genration wise
 
 <h3>Capability Section</h3>
--Job tilts of Empoloyes 
-- Designation wise capabolity
-- Education of employees
-- Department wise Qualification of Employees Analysis and more
+>Job tilts of Empoloyes 
+>Designation wise capabolity
+>Education of employees
+>Department wise Qualification of Employees Analysis and more
 <h3> Compensation and Salary Distribution Section </h3>
   -Totol of Salary
   -Cost to the Company of Total employees
