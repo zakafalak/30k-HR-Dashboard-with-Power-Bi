@@ -12,18 +12,21 @@ This Power BI project presents a comprehensive **HR Dashboard** developed for **
 - Displays summary cards: departments, designations, districts.
 - Gender-wise and employment-type distributions.
 
-   **There are Three sections Of the Dashboard**
+   <h2>There are Three sections Of the Dashboard</h2>
 
-   **Head Coount section**
+   <h3>Head Coount section</h3>
+  
   - In this Section I have Calculate the Employees data With Using Dax and calculate the head coount bye departmnet designation and year of services and Grade level
   - By Age Group Head Count , & by Genration wise
 
-**Capability Section**
+<h3>Capability Section</h3>
 -Job tilts of Empoloyes 
 - Designation wise capabolity
 - Education of employees
 - Department wise Qualification of Employees Analysis and more
-**Compensation/Salary Section**
+  
+<h3>Compensation/Salary Section</3>
+
   -Totol of Salary
   -Cost to the Company of Total employees
   -Grade wise Min,Max,& Total Salary of Employees
