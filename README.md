@@ -1,4 +1,3 @@
-
 # 30k  HR Dashboard - Power BI Project
 
 This Power BI project presents a comprehensive **HR Dashboard** developed for **HR  Department**. It provides a detailed visualization and analysis of the organization's HR data including employee demographics, department-wise distributions, service statistics, and more.
