@@ -1,3 +1,9 @@
+![HR_DASHBOARD-1](https://github.com/user-attachments/assets/e4b99554-702e-4b78-abe8-aee9be292e3d)
+![HR_DASHBOARD-2](https://github.com/user-attachments/assets/154f032d-0e27-4e55-bc42-90f98003b51a)
+![HR_DASHBOARD-3](https://github.com/user-attachments/assets/f89cd6a8-4d5f-4032-a3bf-3e83ff4e57e4)
+
+
+
 📄 [View the detailed HR analysis PDF](./HR_DASHBOARD.pdf)
 
 # 30k  HR Dashboard - Power BI Project
